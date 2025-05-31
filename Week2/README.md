@@ -289,17 +289,18 @@ Common Management Mistakes (Management Antipatterns)\
 2. Making Software Too Flexible – Some managers demand too much flexibility, making the software overcomplicated and inefficient. This is called an "inner platform" problem.
 
 > [!NOTE]
-> Keywords:
-> syntax error
-> runtime error
-> semantic/specification error
-> black box testing
-> white box testing
-> unit testing
-> integration testing
-> regression testing
-> user acceptance testing
-> automated testing
-> Test data
-> code coverage
-> validation
+> Keywords:<br>
+> syntax error<br>
+> runtime error<br>
+> semantic/specification error<br>
+> black box testing<br>
+> white box testing<br>
+> unit testing<br>
+> integration testing<br>
+> regression testing<br>
+> user acceptance testing<br>
+> automated testing<br>
+> Test data<br>
+> code coverage<br>
+> validation<br>
+
