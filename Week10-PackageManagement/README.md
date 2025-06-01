@@ -167,3 +167,6 @@ In general when writing software for your course at Brookes, using libraries or 
 - **`res/`** - directory holding resources and other data files that are needed when the program runs.
 - **`dist/`** - directory holding the program as it will be supplied to end users.
 
+> [!NOTE]
+> Keywords
+> Dependency; Library; Package manager; Manifest; Dependency conflict; Deprecation; EOL; Security risk
