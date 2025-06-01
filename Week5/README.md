@@ -17,7 +17,9 @@ See the lecture slides for a detailed explanation of the process of creating aut
     - Randomly generated data can cover a wider range of scenarios, including edge cases that might not be immediately obvious, thus revealing flaws that would not have been discovered through a set of predictable, hardcoded tests.
     - It's easier to generate large datasets dynamically, allowing for stress testing of the algorithm under different conditions and data volumes, while saving time and resources, allowing testers to focus on analyzing results and improving the algorithm.
     - In simple terms, using randomly generated data for testing helps us make sure things work well in different situations, saves time and effort, and lets us focus on making things even better.
+
 <br>
+
 - Randomized Data for Testing: When we test something, we want to make sure it works correctly in all kinds of situations. Imagine you're trying to check if a car can handle different road conditions like smooth roads, bumpy roads, or even icy roads. If we only test the car on one type of road, we might miss out on important problems it could have on other types of roads.
 - Covering Different Scenarios: By using randomly generated data, we can test the car on all kinds of roads, just like testing a computer program with different types of information. This helps us find problems we might not have thought about before, like if the car has trouble turning left on a bumpy road. In the same way, randomized data can help us find issues in a computer program that we wouldn't have found if we only tested it with specific, planned-out data.
 - Easier Testing with Large Datasets: Imagine if we had to manually create every single test scenario for the car, like driving it on every road in the world. That would take forever! Instead, by using random data, we can create lots of different test situations quickly and easily. This lets us see how the car performs under lots of different conditions without wasting time or resources.
@@ -32,7 +34,7 @@ See the lecture slides for a detailed explanation of the process of creating aut
 ## Avoiding the self-test trap
 
 - The self-test trap refers to a situation in software testing where a test essentially checks itself, resulting in a meaningless or ineffective test. This can occur when the test's verification process is based on the same logic or assumptions used in the code being tested.
-- To use a sorting algorithm while testing a sorting algorithm would be to fall into the self-test trap! If code is tested by the same code, the test is meaningless. It's like asserting that a + b == a + b.
+- To use a sorting algorithm while testing a sorting algorithm would be to fall into the self-test trap! If code is tested by the same code, the test is meaningless. It's like asserting that `a + b == a + b`.
 - The self-test trap does not apply if testing using known correct results. But it can apply when doing comprehensive tests with randomized data, and these are the most valuable in automated testing.
 - Therefore, we must test for the data integrity of the sorting algorithm in a different way.
 
@@ -81,6 +83,7 @@ A helper method is a small, specialized function or subroutine that is designed 
 - We can fall back to comparing against specific known correct results when self-test is unavoidable.
 <br>
 So, when you're stuck in this situation where you can't really test for the best solution, you can fall back on comparing your solution to specific examples where you know what the best solution should be. This way, even though you can't always be sure you've found the absolute best solution, you can at least check if your method is giving you the right answers for known cases.
+
 ## Q & A
 
 **What is automated testing?**
@@ -139,7 +142,7 @@ If you initialize variables in the setup method that you want to be visible in t
 
 Automated testing is not as valuable for methods that provide user input and output, but it can be done. However it does require some Java techniques you have not learned yet.  
 
-You can create input and output streams that read from a string instead of from the keyboard. You can then use System.setOut() and System.setIn() to make your print statements and scanners read from these streams instead.  
+You can create input and output streams that read from a string instead of from the keyboard. You can then use `System.setOut()` and `System.setIn()` to make your print statements and scanners read from these streams instead.  
 
 However, a test method cannot enter an ongoing dialog with a tested method because it can only run when the tested method is not running.  
 
