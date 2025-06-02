@@ -56,3 +56,7 @@
 - **Testing and Validation**: Assertions are valuable during testing and validation phases of software development. They help in identifying unexpected or invalid states of the program during testing, ensuring that the program functions as intended.
 - **Performance Monitoring**: Assertions can be used to monitor and verify performance-related assumptions in the code. For example, assertions can check if certain operations are within expected time bounds or if certain resources are within expected limits.
 - **Error Detection in Production**: Although assertions are typically disabled in production environments for performance reasons, they can still be enabled selectively to detect unexpected conditions or errors that may occur in production. This can help in diagnosing and resolving issues in real-world scenarios.
+
+> [!TIP]
+> 🔗 [Practice](week-3-practical_4.md)
+
