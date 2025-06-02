@@ -17,4 +17,4 @@
 [^1]: Maintainer:  
   [Bertrand](https://github.com/thedignityofcoffee)  
   [Anka](https://github.com/A-n-k-a)  
-[^2]: For more information about DevOps, please refer to [Module Handbook](./chc4010devops-2024-2025-modulehandbook.md)
+[^2]: For more information about DevOps, please refer to [Module Handbook](/thedignityofcoffee/OBU-DevOps-Final/blob/main/chc4010devops-2024-2025-modulehandbook.md)
