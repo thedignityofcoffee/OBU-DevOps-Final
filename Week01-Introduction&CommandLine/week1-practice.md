@@ -12,3 +12,6 @@ Example:
 5. Create a file called image_list.txt in images_by_type. Write the content list of images_by_type into this text file.
 6. In images_by_type folder, create three subfolders, jpeg, png, and gif. Move all pictures in images folder into the three subfolders we just created, based on their format. For example, swimming.gif should go to gif folder.
 Tips: using wildcards could make this a lot easier!
+
+> [!TIP]
+> 🔗 [Solution](week-1-lecture-exercise-solution.md)

@@ -304,3 +304,6 @@ Common Management Mistakes (Management Antipatterns)\
 > code coverage<br>
 > validation<br>
 
+> [!TIP]
+> 🔗 [Practice](week-2-practical-solution.md)
+

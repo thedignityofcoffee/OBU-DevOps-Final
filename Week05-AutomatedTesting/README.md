@@ -160,3 +160,7 @@ To test this you require a testing thread which is much more complicated.
 - Identify if any of these tests can or must be combined
 - Write testing methods based on the appropriate tests and combinations
 - Remember, automated testing does not have to be perfect – it is relatively easy for it to be better than manual testing
+
+> [!TIP]
+> 🔗 [Practice](week-5-practices.md)
+

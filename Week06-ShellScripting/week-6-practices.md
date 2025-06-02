@@ -43,3 +43,7 @@ Example target directory:
 1. Create a new folder called “big_files_backup”, and set the environment variable `big_files_back_up_path` to the absolute path of this folder. Read the environment variable from your shell to check that it’s actually saved.  
 
 2. In your shell script, read from `big_files.txt` and copy each file listed here into the folder we just created, using the environment variable. Note: `big_files.txt` contains only the file name, so you need the path of the containing directory in order to locate these files.  
+
+> [!TIP]
+> 🔗 [Solution codes](week-6-practices-solution)
+

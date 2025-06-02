@@ -170,3 +170,7 @@ In general when writing software for your course at Brookes, using libraries or 
 > [!NOTE]
 > Keywords
 > Dependency; Library; Package manager; Manifest; Dependency conflict; Deprecation; EOL; Security risk
+
+> [!TIP]
+> 🔗 [Practice](week-10-practices.md)
+

@@ -10,3 +10,8 @@
 5. In its initial state, `findStudent()` uses linear search to find a certain student in the database. Since `students` are kept sorted in alphabetical order, we can use binary search to improve efficiency. Adapt the `binarySearch()` method given in `StudentDB.java` and use it to find a student in the database.
   
 After this change, run the all the tests again. Did your change break any existing feature? Do we need to update the tests for any of the public methods? Why or why not?
+
+> [!TIP]
+> 🔗 [Practice codes](Week%205%20Practices)  
+> 🔗 [Solution codes](Week%205%20Practices%20-%20solution)
+

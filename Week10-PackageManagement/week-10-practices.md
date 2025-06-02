@@ -12,8 +12,13 @@
 3. Replicate the Jumble game in a web interface.
   
 ![](images/Pasted-image-20250602125339.png)
+
+> [!TIP]
+> 🔗 Code [Jumble](Jumble)
+
+
 [^1]
-[^1]: Resources:
-  https://github.com/perwendel/spark
-  https://www.baeldung.com/freemarker-operations
-  https://www.vogella.com/tutorials/FreeMarker/article.html
+[^1]: Resources:  
+  https://github.com/perwendel/spark  
+  https://www.baeldung.com/freemarker-operations  
+  https://www.vogella.com/tutorials/FreeMarker/article.html  

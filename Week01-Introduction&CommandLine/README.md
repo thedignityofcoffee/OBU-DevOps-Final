@@ -318,7 +318,7 @@ dir >> filelist.txt
 
 ### Basic file manipulation commands
 
-![Basic file manipulation commands](/Week1/image/basic_file_manipulation_commands.jpg)
+![Basic file manipulation commands](image/basic_file_manipulation_commands.jpg)
 
 ### Wildcards
 
@@ -329,9 +329,9 @@ dir >> filelist.txt
     - Giving a directory name when a filename is expected means “all files in that directory”, provided the directory already exists
 - On Windows, the standard command prompt sees filenames as having a separate file name and file extension. Thus wildcards must be applied to the file extension specifically. This is a holdover from the MS DOS system.
 
-![wildcards1](/Week1/image/wildcards1.png)
+![wildcards1](image/wildcards1.png)
 
-![wildcards2](/Week1/image/wildcards2.png)
+![wildcards2](image/wildcards2.png)
 
 ### Switches
 
@@ -340,11 +340,11 @@ dir >> filelist.txt
 - Some switches have parameters in themselves
 - An example of a very useful switch is the `/`s (“subdirectories”) or `-r` (“recursive”) switch which is supported by many commands. It makes a command affect the specified directory and all subdirectories.
 
-![wildcards3](/Week1/image/wildcards3.png)
+![wildcards3](image/wildcards3.png)
 
 ### Less commonly used commands
 
-![Less commonly used commands](/Week1/image/less_commonly_used_commands.jpg)
+![Less commonly used commands](image/less_commonly_used_commands.jpg)
 
 ### Access Control
 
@@ -368,6 +368,8 @@ dir >> filelist.txt
 > Path
 > - relative path
 > - absolute path
-> 
 > - output redirect
 > - wildcard
+
+> [!TIP]
+> 🔗 [Practice](week1-practice.md)
