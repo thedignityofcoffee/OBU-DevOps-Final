@@ -12,6 +12,6 @@
 After this change, run the all the tests again. Did your change break any existing feature? Do we need to update the tests for any of the public methods? Why or why not?
 
 > [!TIP]
-> 🔗 [Practice codes](Week%205%20Practices)
+> 🔗 [Practice codes](Week%205%20Practices)  
 > 🔗 [Solution codes](Week%205%20Practices%20-%20solution)
 
