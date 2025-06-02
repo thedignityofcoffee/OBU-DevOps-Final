@@ -457,3 +457,6 @@ $env:<variable_name> = <variable_value>
 ```
 In your own shell, set the environment variable “user” to your name, then print the message “The current user is <your_name>” by reading that environment variable.
 
+> [!TIP]
+> 🔗 [Practice](week-6-practices.md)
+
