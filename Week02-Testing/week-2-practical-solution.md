@@ -6,13 +6,15 @@ Determine a set of Black Box test cases and test data from the following specifi
 Given an array of integers `arr`, return true if and only if it is a valid mountain array. That `arr` is a mountain array if and only if:  
 - `arr.length`  > = 3   
 - There exists some i with $0 < \dot { 1 } < arr.length - 1$ such that: 
-    - $$arr[0] \textless arr[1] < ... < arr[i - 1] < arr[i]$$
-    - $$arr[i] > arr[i+1] > ... > arr[arr.length - 1]$$  
+    - $arr[0] < arr[1] < ... < arr[i - 1] < arr[i]$
+    - $arr[i] > arr[i+1] > ... > arr[arr.length - 1]$  
 ![](images/5a22943c1041c917ebe891654b5b71b0a5c1eb01e5bb8a9ec33128398ba82430.jpg)  
 
 <html><body><table align=center><tr><td>0</td><td>2</td><td>3</td><td>4</td><td>5</td><td>2</td><td>1</td><td>0</td></tr></table></body></html>  
 <html><p align=center>MOUNTAIN ARRAY</p></html>  
+
 ![](images/6eebadbcb2eea759a048b6a5d3df7366c29a4e08694d35618b24a69c8c403b16.jpg)  
+
 <html><p align=center>NOT A MOUNTAIN ARRAY</p></html>    
 
 Example:  
