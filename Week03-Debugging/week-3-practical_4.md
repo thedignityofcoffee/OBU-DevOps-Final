@@ -48,3 +48,7 @@ static void move(int[] nums, int begin, int end) {
     }
 }
 ```
+
+> [!TIP]
+> 🔗 [Solution Code](week3-pratical-solution)
+
