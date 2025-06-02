@@ -1,5 +1,5 @@
 # Notes for OBU SE DevOps[^1]
-## Semester Plan Synopsis 
+## Semester Plan Synopsis[^2]
 | Week | Topic                         | Deadlines             |
 |------|-------------------------------|-----------------------|
 | [1](Week01-Introduction&CommandLine)    | Introduction and Command Line |                       |
@@ -17,3 +17,4 @@
 [^1]: Maintainer:  
   [Bertrand](https://github.com/thedignityofcoffee)  
   [Anka](https://github.com/A-n-k-a)  
+[^2]: For more information about DevOps, please refer to [Module Handbook](./chc4010devops-2024-2025-modulehandbook.md)
