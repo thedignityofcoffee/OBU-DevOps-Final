@@ -148,3 +148,7 @@ Also:
     - **HTML**: can display in any web browser, but can be more awkward to write and maintain
     - **Markdown**: a plain-text base format with symbolic conventions for layout, turned into PDF or HTML by a free markdown processor
     - **LaTeX**: a free document processor with its own text format and an inbuilt programming language for extensibility; hard to learn but has strong support for maths, diagrams, and complex layouts. Usually used together with a LaTeX specific editor such as TeXworks
+
+> [!TIP]
+> 🔗 [Practice](week-4-practices.md)
+
