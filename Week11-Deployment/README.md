@@ -105,3 +105,7 @@ A popular containerization system
 
 - Docker's containerization can allow server programs to be quickly deployed across multiple machines without risk of conflict or drift on those machines, and manage connections between them
 - It can also support role‐based configuration management: where the container that runs on a machine is not fixed to what machine it is, but can vary according to what the system needs
+
+> [!TIP]
+> 🔗 [Practice](week-11-practices.md)
+
