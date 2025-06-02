@@ -1,0 +1,11 @@
+A. Shifts elements to the right to make space for the target element's insertion
+B. Compare the target element with each element before it
+C. Insert the target element at the found position
+D. If an element greater than the target is found
+E. Start from the second element and iterate through the array
+F. Shift all elements between the found position and the target's position to the right
+G. Start from the target element's original position and go from right to left
+H. Move each element one position to the right
+I. Temporarily store the target element
+J. Helper method to insert the element at index i into its correct position
+K. Ensure that the beginning pointer is on the left of the end pointer
