@@ -14,3 +14,7 @@
 5. In `MovieDB` class, `java.util.ArrayList` is used for storing a collection of movies. Replace this datatype with `java.util.HashMap`, a datatype similar to dictionaries in Python, with the help of [JavaDoc](https://docs.oracle.com/en/java/javase/20/docs/api/java.base/java/util/HashMap.html), and make necessary changes to the code so that the program will still work.  
 
 After this change, do we need to update the JavaDoc comments for any of the public methods? Why or why not?  
+
+> [!TIP]
+> 🔗 [Solution Codes](Week%204%20Practices%20-%20solution)
+
